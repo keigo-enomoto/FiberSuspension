@@ -3,6 +3,9 @@ This is the code used in my [graduate thesis](http://rheology.jp/nagoya/employee
 
 Watch the movie on [YouTube](https://www.youtube.com/watch?v=f9K-1ByvgVI)
 
+I have'nt make sure this works on Windows. 
+On Linux or Mac, maybe work. 
+
 ## What is needed
 
 - gcc (if you want use OpenMP)
