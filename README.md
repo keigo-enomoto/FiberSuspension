@@ -108,7 +108,7 @@ Use `src/mk_fiber` and `fp_fiber3/init.c`
     DT 0.00001
     FINISH_TIME 0.2
     OUTPUT_INTERVAL 20
-    Init_place ./../mk_fiber/18f20-10_3600_60-60_2d.dat
+    Init_place ./../mk_fiber/18f20-10_3600_60-60_2d.dat # the file for initial coordinate 
     output_dir .    # where to output
     ks 1.0E+09      # spring constant
     kb 5.0E+08
