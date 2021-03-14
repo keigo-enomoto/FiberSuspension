@@ -1,0 +1,14 @@
+DIM 2
+Rho_s 1.0
+Nu_f 10000
+Nu_s 10000
+strain_rate 10
+Gravity 0.0
+DT 0.00001
+FINISH_TIME 20
+OUTPUT_INTERVAL 200
+Init_place @dat@ 
+output_dir .
+ks 1.0E+09
+kb 5.0E+08
+VTU_flag 0
