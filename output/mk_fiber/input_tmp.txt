@@ -1,0 +1,7 @@
+DIM 2
+nx xx
+ny yy
+aspect_ratio ap
+n_fiber nf
+seed ss
+

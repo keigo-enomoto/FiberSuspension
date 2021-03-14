@@ -1,0 +1,14 @@
+DIM 2
+Rho_s 1.0
+Nu_f 10000
+Nu_s 10000
+strain_rate 10
+Gravity 0.0
+DT 0.00001
+FINISH_TIME 0.2
+OUTPUT_INTERVAL 20
+Init_place ./../mk_fiber/18f20-10_3600_60-60_2d.dat
+output_dir .
+ks 1.0E+09
+kb 5.0E+08
+VTU_flag 0
