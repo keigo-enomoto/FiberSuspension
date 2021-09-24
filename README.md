@@ -43,7 +43,7 @@ If you want to contact me, plz send e-mail to keno.rheo2525[at]gmail.com
 
     After configure, do `make all`, `make check` as the log said.
 4. set Environmental variables `PETSC_DIR` and `PETSC_ARCH`
-   set `PETSC_DIR` and `PETSC_ARCH` in `~/.bashrc` or `~/.zshrc`
+5. set `PETSC_DIR` and `PETSC_ARCH` in `~/.bashrc` or `~/.zshrc`
 
 
 
