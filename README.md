@@ -122,3 +122,15 @@ Use `src/mk_fiber` and `fp_fiber3/init.c`
 3. ```
    ./execute.sh
    ```
+   
+## output
+
+- input_parameters        -> confirm the input parameters
+- output_couette.dat      -> check the flow profile 
+- particle*.vtu           -> you can see the animation with [ParaView](https://www.paraview.org/)
+- output_analysis.txt     -> some variables for analysis
+- output_unit.dat         -> direction vector of fibers 
+- output_FiberMonitor.dat -> check the how fiber is bending or stretching
+- output_center.dat       -> the gravity center of fibers 
+- output_wallstress.dat   -> the wall stress exerted by the fiber suspensions. Using the strain rate, you can calculate the viscosity.
+
