@@ -3,7 +3,7 @@ This is the code used in my [graduate thesis](http://rheology.jp/nagoya/employee
 
 Watch the movie on [YouTube](https://www.youtube.com/watch?v=f9K-1ByvgVI)
 
-If you want to contact me, plz send e-mail to keno.rheo2525@gmail.com
+If you want to contact me, plz send e-mail to keno.rheo2525[at]gmail.com
 
 ## What is needed
 
