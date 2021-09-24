@@ -6,6 +6,8 @@ Watch the movie on [YouTube](https://www.youtube.com/watch?v=f9K-1ByvgVI)
 I have'nt make sure this works on Windows. 
 On Linux or Mac, maybe work. 
 
+If you want to contact me, plz send e-mail to keno.rheo2525[at]gmail.com
+
 ## What is needed
 
 - gcc (if you want use OpenMP)
